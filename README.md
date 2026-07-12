@@ -23,7 +23,7 @@ pip install pyttsx3 PyPDF2
 ```
 
 ## Usage
-Place the PDF document you want to convert into the same directory as the script and name it book.pdf. This version uses "The Time Machine" by H.G. Wells as an example, but you can use any text-based PDF.
+Place the PDF document you want converted into the same directory as the script and name it book.pdf. This version uses "The Time Machine" by H.G. Wells as an example, but you can use any text-based PDF.
 
 Run the script with Python:
 
